@@ -29,12 +29,12 @@ I am an enthusiastic Indian self-taught web developer and problem solver. I am a
 </h2>
 <div align = "center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-Singhal1&theme=radical)](https://github.com/Anurag-Singhal1/github-readme-stats)
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Anurag-Singhal1&line_height=40&theme=dark">
+[![Mitesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=mitesh-sharma&theme=radical)](https://github.com/mitesh-sharma/github-readme-stats)
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=mitesh-sharma&line_height=40&theme=dark">
 </div>
 
 ## **Reach out to me :** 📫
   <p>
-    <a target="_blank"href="https://www.linkedin.com/in/anurag-singhal-b6a4a9237/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;t
-    <a href="mailto: anuragsinghal811@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.linkedin.com/in/mitesh-sharma-b02248214/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;t
+    <a href="mailto: miteshsharma63114@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
