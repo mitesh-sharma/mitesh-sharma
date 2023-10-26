@@ -3,7 +3,7 @@
 # <div align="center"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I am Mitesh Sharma</div>
 
 - 🌱 I’m currently learning Data Structures and Algorithms
-- 👯 I’m looking to collaborate on Web Dev Projects
+- 👯 I’m looking to collaborate on Web Dev Project
 
 ## **About Me :** 👦
 I am an enthusiastic self-taught web developer and problem solver. I am a motivated individual with a strong passion for development and data structures and algorithms, who has achieved self-taught proficiency in both areas.
